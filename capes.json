@@ -1,10 +1,10 @@
 {
-    "Group1": {
-        "capeUrl": "http://176.31.37.165/downloads/titcape3.png",
-        "users": [
-            "SirOMGitsYOU",
-            "SamLikesHam"
-        ]
-    },
-    "Captain_Shadows": "http://www.example.com/captain_cape.png"
+  "Group1": {
+    "capeUrl": "http://176.31.37.165/downloads/titcape3.png",
+    "users": [
+      "SirOMGitsYOU",
+      "SamLikesHam"
+    ]
+  },
+  "Captain_Shadows": "http://www.example.com/captain_cape.png"
 }
